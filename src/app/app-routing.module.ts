@@ -1,7 +1,10 @@
+import { ForceGraphComponent } from './force-graph/force-graph.component';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-const routes: Routes = [];
+const routes: Routes = [
+  { path: 'force-graph', component: ForceGraphComponent, pathMatch: 'full' }
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
