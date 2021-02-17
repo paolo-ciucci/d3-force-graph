@@ -3,8 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.0.
 
 ## Development server
-Run `npm i`
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/force-graph`. The app will automatically reload if you change any of the source files.
+Run `npm i`, then run `ng serve` for a dev server. Navigate to `http://localhost:4200/force-graph`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
